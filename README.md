@@ -17,7 +17,7 @@
 
 ## 📖 About The Project
 
-**Developed by Alpha Insiders**
+**Developed by TechDaDan**
 
 This project brings life to robotic eyes through smooth, natural movements controlled by multiple input methods. Whether running autonomously with lifelike behaviors, controlled via gamepad, or tracked through hand gestures using a webcam - these eyes respond with personality and precision.
 
@@ -491,7 +491,7 @@ If you found this project helpful or interesting:
 
 <div align="center">
 
-### Made with ❤️ by Ghazi & Paras from Alpha Insiders
+### Made with ❤️ by Ghazi & Paras from TechDaDan
 
 **Happy Building! 🤖✨**
 
